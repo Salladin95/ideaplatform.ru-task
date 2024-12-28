@@ -1,0 +1,7 @@
+@import '~/reset.css';
+@import '~/shared/styles/colors';
+
+body {
+  background-color: var(--white);
+  color: var(--main-text);
+}
